@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b56ec20e31094cf4cbeb0cc158b036ee, type: 3}
+  m_Name: ak
+  m_EditorClassIdentifier: Assembly-CSharp::weaponSO
+  damage: 8
+  magazinesize: 20
+  firerate: 0.4
+  weaponprefab: {fileID: 7490466518109378713, guid: 06da2e5130f294f4ba5561a50b3c5e1e, type: 3}
+  canzoom: 0
+  zoomfov: 20
