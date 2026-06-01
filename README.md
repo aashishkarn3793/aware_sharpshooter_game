@@ -69,7 +69,13 @@ This project helped me gain hands-on experience with:
 gameplay video available at 
 https://drive.google.com/file/d/1nwTfgg84w1LYkE3FXCXul9PO1LawOSgv/view?usp=drive_link
 
-
 ## 👨‍💻 Developer
 
-Created by Aashish Karn as a Unity game development project.
+Developed by **Aashish Karn**
+
+
+## License
+
+This project is for educational and portfolio purposes.
+
+
