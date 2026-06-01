@@ -65,6 +65,10 @@ This project helped me gain hands-on experience with:
 ![image alt](https://github.com/aashishkarn3793/aware_sharpshooter_game/blob/master/Screenshot%202026-06-01%20234342.png?raw=true)
 ![image alt](https://github.com/aashishkarn3793/aware_sharpshooter_game/blob/master/Screenshot%202026-06-01%20234701.png?raw=true)
 
+## 📷 Gameplay
+gameplay video available at 
+https://drive.google.com/file/d/1nwTfgg84w1LYkE3FXCXul9PO1LawOSgv/view?usp=drive_link
+
 
 ## 👨‍💻 Developer
 
