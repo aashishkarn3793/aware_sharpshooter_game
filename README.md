@@ -2,7 +2,7 @@
 
 **Stay alert. Stay alive. Stay Aware.**
 
-Aware is a 3D survival game developed in Unity using C#. The objective is simple: explore the environment, avoid dangerous enemies, collect all required items, and escape before getting caught.
+Aware is a Low poly 3D survival game developed in Unity using C#. The objective is simple: explore the environment, avoid dangerous enemies, collect all required items, and escape before getting caught.
 
 ## 🎮 Game Objective
 
@@ -27,6 +27,8 @@ The challenge lies in surviving long enough to collect every item while carefull
 | ------------------ | ----------- |
 | Move               | WASD        |
 | Look Around        | Mouse       |
+| Shoot              | left click  |
+| Scope              | right click |
 | Jump               | Space       |
 | Interact / Collect | As prompted |
 
@@ -60,7 +62,8 @@ This project helped me gain hands-on experience with:
 * Difficulty progression
 
 ## 📷 Screenshots
-
+![image alt](https://github.com/aashishkarn3793/aware_sharpshooter_game/blob/master/Screenshot%202026-06-01%20234342.png?raw=true)
+![image alt](https://github.com/aashishkarn3793/aware_sharpshooter_game/blob/master/Screenshot%202026-06-01%20234701.png?raw=true)
 
 
 ## 👨‍💻 Developer
